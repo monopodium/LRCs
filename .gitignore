@@ -1,4 +1,6 @@
 ./__pycache__
+*.pyc
+./cmake/build
 ./cmake
 ./packages
 /third_party
